@@ -1,0 +1,3 @@
+[submodule "frontend/NamAeng"]
+	path = frontend/NamAeng
+	url = https://github.com/Pongsathorn-j22/NamAeng.git
